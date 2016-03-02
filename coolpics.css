@@ -1,0 +1,45 @@
+body {
+	background-color: 
+}
+
+#gallery-wrapper h1 {
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: Asset;
+
+
+}
+
+.image {
+	width: 32.3%;
+	float: left;
+	padding: .5%;
+	
+}
+
+.portrait img{
+	width:100%;
+}
+
+.landscape img{
+	width:100%;
+
+}
+.caption {
+	background-color: blue;
+	text-align: center;
+	position: relative;
+	margin-top: -20px;
+	color: white;
+}
+
+.six {
+
+
+	}
+.extra-stuff {
+	background-color: blue;
+	float: left;
+}
